@@ -1,6 +1,6 @@
-# Vite Vue Starter
+# vue-router hash bug reproduction repo
 
-This is a project template using [Vite](https://vitejs.dev/). It requires [Node.js](https://nodejs.org) version 18+ or 20+.
+This is a project to reproduce issue with [vue-router](https://router.vuejs.org/) not preserving original `hash` value with special URL characters.
 
 To start:
 
